@@ -1,0 +1,4 @@
+C:\Users\alunodev07\source\repos\Sistema_Empregado\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alunodev07\source\repos\Sistema_Empregado\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alunodev07\source\repos\Sistema_Empregado\obj\Debug\net8.0-windows\Sistema_Empregado_MarkupCompile.cache
+C:\Users\alunodev07\source\repos\Sistema_Empregado\obj\Debug\net8.0-windows\Sistema_Empregado_MarkupCompile.lref
